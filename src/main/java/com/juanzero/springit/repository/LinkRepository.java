@@ -1,4 +1,4 @@
-package com.juanzero.springit.domain.repository;
+package com.juanzero.springit.repository;
 
 import com.juanzero.springit.domain.Link;
 import org.springframework.data.jpa.repository.JpaRepository;
